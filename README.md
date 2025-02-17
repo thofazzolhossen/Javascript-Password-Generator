@@ -10,8 +10,8 @@ This tool allows users to generate strong passwords with customizable options.
 ✅ Copy generated password to clipboard  
 ✅ Simple and responsive UI  
 
-## 📷 Preview
-![Password Generator](https://thofazzolhossen.github.io/Javascript-Password-Generator/)
+## 📷 Preview  
+🔗 [Live Demo: Password Generator](https://thofazzolhossen.github.io/Javascript-Password-Generator/)
 
 ## 🛠️ Technologies Used
 - **HTML5** for structure  
@@ -26,7 +26,12 @@ This tool allows users to generate strong passwords with customizable options.
 
 ## 📂 Project Structure
 
-📂 Password-Generator ├── 📄 index.html # Main file (includes HTML, CSS, JS) ├── 📄 style.css # Styles (if using separate CSS) ├── 📄 script.js # Password logic (if using separate JS) ├── 📄 README.md # Project documentation
+📂📂 Javascript-Password-Generator
+ ├── 📄 index.html   # Main HTML file (must be in root)
+ ├── 📄 style.css    # CSS file for styling
+ ├── 📄 script.js    # JavaScript logic for password generation
+ ├── 📄 README.md    # Documentation
+
 
 ## 💡 Future Improvements
 - Strength indicator for generated passwords  
