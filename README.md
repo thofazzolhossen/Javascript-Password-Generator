@@ -26,6 +26,8 @@ This tool allows users to generate strong passwords with customizable options.
 
 ## 📂 Project Structure
 
+📂 Password-Generator ├── 📄 index.html # Main file (includes HTML, CSS, JS) ├── 📄 style.css # Styles (if using separate CSS) ├── 📄 script.js # Password logic (if using separate JS) ├── 📄 README.md # Project documentation
+
 ## 💡 Future Improvements
 - Strength indicator for generated passwords  
 - Dark mode option  
