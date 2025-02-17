@@ -11,7 +11,7 @@ This tool allows users to generate strong passwords with customizable options.
 ✅ Simple and responsive UI  
 
 ## 📷 Preview
-![Password Generator](https://via.placeholder.com/600x300?text=Password+Generator+Preview)
+![Password Generator](https://thofazzolhossen.github.io/Javascript-Password-Generator/)
 
 ## 🛠️ Technologies Used
 - **HTML5** for structure  
